@@ -1,6 +1,5 @@
 ---
 title: Open Letter to EC President Jean-Claude Juncker
-layout: post
 ---
 
 # Open Letter to EC President Jean-Claude Juncker
