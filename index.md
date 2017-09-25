@@ -1,7 +1,3 @@
----
-title: Open Letter to EC President Jean-Claude Juncker
----
-
 # Open Letter to EC President Jean-Claude Juncker
 
 From: John Palmer, Pompeu Fabra University
